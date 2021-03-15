@@ -1,0 +1,14 @@
+CASE SENSITIVE:
+              . JavaScript is a case-sensitive language.
+              . This means that the language keywords, variables, function names and any other identifiers should always be written with a capitalization of letters.
+Eg:
+    The identifiers time and TIME will convey diferrent meaning in JS.
+    
+IDENTIFIERS:
+           . Identifier is a sequence of characters that identifies a variable, function. 
+           . identifiers are case-sensitive and can contain $ , _ , and digits but it does not start with a digit.
+           . Identifiers are user defined name.
+           
+COMMENTS:
+           . Double line comment starts with /* and end with */ again.
+           . Single line comment starts only with //
